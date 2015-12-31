@@ -7,7 +7,7 @@ This package depends on [useraccounts:core](https://atmospherejs.com/useraccount
 Learn more [here](http://useraccounts.meteor.com) or have a look at the full [documentation](https://github.com/meteor-useraccounts/core/blob/master/Guide.md).
 
 
-## Bring Your Own Materialize CSS
+## Bring Your Own uikit
 
 Adding this package with `meteor add cyloncourt:useraccounts-uikit` does not add any other packages providing uikit css. This is to let you choose the flavour you prefer. Just search  [Atmosphere](https://atmospherejs.com/?q=uikit)!
 
